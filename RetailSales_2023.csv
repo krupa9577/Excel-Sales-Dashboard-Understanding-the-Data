@@ -1,0 +1,501 @@
+Date,Region,Category,Product,Units,Revenue
+2023-05-21,South,Electronics,Laptop,8,152712.0
+2023-02-14,West,Electronics,Tablet,2,9410.0
+2023-04-30,North,Electronics,Smartphone,18,483516.0
+2023-04-23,West,Sports,Tennis Ball,19,47082.0
+2023-12-24,West,Electronics,Smartphone,11,409431.0
+2023-06-22,North,Furniture,Desk,3,41847.0
+2023-06-26,East,Electronics,Headphones,2,122034.0
+2023-07-13,North,Sports,Cricket Bat,18,46818.0
+2023-10-23,South,Sports,Badminton Racket,23,17687.0
+2023-05-29,North,Electronics,Smartphone,8,112304.0
+2023-08-21,East,Grocery,Biscuits,6,4848.0
+2023-12-10,East,Clothing,Jeans,23,135677.0
+2023-11-22,South,Electronics,Tablet,18,591966.0
+2023-07-14,East,Furniture,Sofa,21,505029.0
+2023-12-17,East,Sports,Football,25,16450.0
+2023-06-11,West,Furniture,Office Chair,9,33012.0
+2023-06-11,South,Furniture,Table,21,375018.0
+2023-03-15,East,Grocery,Cooking Oil,5,2775.0
+2023-05-15,West,Sports,Yoga Mat,19,65949.0
+2023-03-12,West,Clothing,Jeans,3,2055.0
+2023-11-18,South,Electronics,Smartphone,22,1234926.0
+2023-07-17,West,Sports,Cricket Bat,20,80680.0
+2023-10-11,North,Sports,Badminton Racket,22,25036.0
+2023-11-25,East,Sports,Badminton Racket,4,10416.0
+2023-08-21,North,Grocery,Coffee,24,14136.0
+2023-09-17,North,Sports,Football,21,55524.0
+2023-04-12,South,Sports,Yoga Mat,12,18276.0
+2023-01-01,East,Sports,Yoga Mat,16,5744.0
+2023-06-07,South,Electronics,Headphones,2,64742.0
+2023-02-13,West,Sports,Cricket Bat,3,13689.0
+2023-12-04,West,Furniture,Desk,18,124380.0
+2023-11-07,West,Clothing,Dress,7,33019.0
+2023-07-24,East,Furniture,Bookshelf,15,276885.0
+2023-05-07,South,Grocery,Rice,3,2226.0
+2023-10-11,South,Electronics,Tablet,19,563616.0
+2023-12-29,North,Electronics,Laptop,8,77072.0
+2023-02-06,South,Electronics,Headphones,9,579816.0
+2023-03-09,West,Furniture,Table,8,0.0
+2023-04-08,North,Grocery,Cooking Oil,4,5596.0
+2023-08-05,West,Grocery,Biscuits,15,2400.0
+2023-07-26,East,Electronics,Laptop,4,133564.0
+2023-10-02,West,Furniture,Desk,5,76620.0
+2023-08-25,South,Furniture,Bookshelf,3,48060.0
+2023-01-26,North,Sports,Cricket Bat,3,6408.0
+2023-09-06,West,Furniture,Sofa,7,208824.0
+2023-03-26,West,Grocery,Rice,1,849.0
+2023-05-27,West,Clothing,Shoes,23,111596.0
+2023-04-08,East,Grocery,Coffee,7,1183.0
+2023-02-01,East,Sports,Yoga Mat,2,1220.0
+2023-09-15,South,Sports,Tennis Ball,2,8720.0
+2023-02-05,North,Electronics,Smartphone,22,695816.0
+2023-10-19,South,Grocery,Rice,19,24073.0
+2023-02-11,West,Electronics,Tablet,22,1700666.0
+2023-06-11,East,Sports,Yoga Mat,7,19411.0
+2023-07-22,South,Furniture,Bookshelf,22,498322.0
+2023-06-11, North ,Clothing,Shoes,1,4054.0
+2023-02-21,North,Sports,Yoga Mat,18,35028.0
+2023-03-09,East,Sports,Badminton Racket,3,6603.0
+2023-03-22,West,Clothing,Jacket,18,50004.0
+2023-01-05,East,Sports,Yoga Mat,22,23056.0
+2023-03-01,North,Furniture,Bookshelf,24,471072.0
+2023-05-25,South,Furniture,Bookshelf,23,292905.0
+2023-09-16,West,Furniture,Bookshelf,9,263025.0
+2023-11-21,West,Electronics,Laptop,9,59202.0
+2023-03-08,East,Electronics,Headphones,6,352272.0
+2023-10-15,North,Sports,Tennis Ball,4,3264.0
+2023-01-19,East,Furniture,Table,19,372495.0
+2023-03-07,North,Furniture,Sofa,10,134480.0
+2023-04-18,South,Electronics,Headphones,22,314006.0
+2023-07-28,South,Clothing,Dress,8,13048.0
+2023-01-13,South,Furniture,Sofa,24,297240.0
+2023-05-17,South,Grocery,Coffee,23,6233.0
+2023-08-29,South,Grocery,Rice,7,6944.0
+2023-04-27,South,Clothing,Jacket,1,5706.0
+2023-06-18,East,Furniture,Sofa,3,80520.0
+2023-11-25,West,Clothing,Jacket,22,103224.0
+2023-03-01,East,Clothing,T-Shirt,6,30336.0
+2023-02-25,West,Clothing,T-Shirt,12,34428.0
+2023-09-19,North,Grocery,Juice,13,15990.0
+2023-01-23,West,Furniture,Bookshelf,1,18536.0
+2023-07-06,West,Sports,Football,3,8712.0
+2023-12-06,North,Sports,Badminton Racket,24,
+2023-12-08,West,Sports,Badminton Racket,11,38456.0
+2023-03-07,South,Clothing,Dress,14,80458.0
+2023-11-12,East,Grocery,Coffee,13,15236.0
+2023-05-27,South,Electronics,Headphones,14,1075466.0
+2023-08-27,West,Sports,Badminton Racket,15,29250.0
+2023-03-28,North,Sports,Tennis Ball,10,44220.0
+2023-02-17,South,Sports,Badminton Racket,22,60324.0
+2023-03-17,North,Furniture,Desk,2,19046.0
+2023-02-07,West,Grocery,Juice,14,18746.0
+2023-12-23,West,Sports,Football,16,55568.0
+2023-12-02,North,Furniture,Desk,25,742350.0
+2023-04-23,South,Electronics,Smartwatch,23,1579847.0
+2023-10-13,South,Grocery,Rice,4,3936.0
+2023-12-08,East,Furniture,Sofa,25,400050.0
+2023-08-07,West,Sports,Yoga Mat,6,24528.0
+2023-05-07,East,Grocery,Biscuits,25,27925.0
+2023-05-21,West,Grocery,Coffee,3,1905.0
+2023-06-21,East,Furniture,Bookshelf,18,74520.0
+2023-04-29,West,Furniture,Desk,23,149661.0
+2023-08-01,West,Furniture,Office Chair,11,212080.0
+2023-02-01,South,Grocery,Cooking Oil,14,11858.0
+2023-10-22,West,Sports,Cricket Bat,16,3968.0
+2023-07-19,West,Clothing,Jacket,18,85914.0
+2023-09-07,South,Sports,Football,9,33930.0
+2023-07-19,East,Grocery,Rice,22,31680.0
+2023-08-28,South,Grocery,Coffee,20,22860.0
+2023-10-31,North,Electronics,Smartwatch,3,170937.0
+2023-04-04,North,Furniture,Sofa,9,125298.0
+2023-08-21,East,Clothing,Jeans,11,37455.0
+2023-05-10,North,Clothing,Shoes,16,7328.0
+2023-06-29,South,Sports,Cricket Bat,21,16002.0
+2023-05-07,South,Electronics,Laptop,1,20773.0
+2023-08-31,North,Furniture,Desk,19,164198.0
+2023-07-08,South,Grocery,Biscuits,20,25860.0
+2023-06-09,North,Electronics,Smartphone,19,79135.0
+2023-12-13,West,Clothing,Dress,13,25012.0
+2023-12-20,South,Electronics,Tablet,4,161316.0
+2023-10-17,North,Sports,Cricket Bat,12,54768.0
+2023-02-05,East,Grocery,Biscuits,1,910.0
+2023-08-10,East,Grocery,Rice,21,20811.0
+2023-04-01,East,Furniture,Sofa,20,559660.0
+2023-08-27,West,Sports,Tennis Ball,24,57552.0
+2023-02-14,East,Clothing,Jeans,15,34455.0
+2023-11-09,West,Grocery,Juice,11,1188.0
+2023-04-04,West,Grocery,Biscuits,7,5432.0
+2023-05-24,East,Clothing,Jacket,18,6894.0
+2023-02-13,South,Sports,Football,24,84696.0
+2023-05-04,West,Grocery,Juice,21,22155.0
+2023-02-17,East,Grocery,Rice,8,7024.0
+2023-12-06,East,Furniture,Bookshelf,16,314176.0
+2023-08-06,East,Sports,Badminton Racket,12,47004.0
+2023-05-09,South,Clothing,Jacket,4,7508.0
+2023-10-02,South,Clothing,T-Shirt,7,14504.0
+2023-10-29,East,Grocery,Biscuits,4,1788.0
+2023-07-04,South,Clothing,Jeans,10,4150.0
+2023-05-21,North,Sports,Football,2,9466.0
+2023-11-23,West,Clothing,Jeans,4,1600.0
+2023-08-29,West,Sports,Badminton Racket,15,44865.0
+2023-05-10,West,Furniture,Office Chair,4,113756.0
+2023-09-09,North,Electronics,Smartwatch,19,148694.0
+2023-10-16,East,Furniture,Desk,3,0.0
+2023-08-02,South,Electronics,Tablet,25,1732350.0
+2023-08-15,East,Grocery,Cooking Oil,19,17632.0
+2023-11-14,North,Clothing,Dress,20,22240.0
+2023-05-16,North,Furniture,Desk,6,56154.0
+2023-02-08,South,Furniture,Table,1,14886.0
+2023-08-29,East,Grocery,Juice,2,1048.0
+2023-12-26,West,Clothing,Jacket,3,17793.0
+2023-11-17,South,Furniture,Bookshelf,14,73640.0
+2023-11-28,South,Sports,Football,9,12285.0
+2023-03-26,East,Electronics,Laptop,20,1508140.0
+2023-03-05,West,Clothing,Shoes,23,64193.0
+2023-09-14,West,Grocery,Biscuits,15,3210.0
+2023-08-10,East,Sports,Cricket Bat,20,45020.0
+2023-04-28,North,Electronics,Laptop,25,903125.0
+2023-03-31,West,Sports,Cricket Bat,17,64974.0
+2023-10-27,West,Clothing,Jeans,21,90888.0
+2023-06-28,West,Electronics,Smartwatch,11,471691.0
+2023-06-18,West,Electronics,Smartphone,23,1512066.0
+2023-10-09,North,Clothing,Shoes,15,15315.0
+2023-06-15,North,Clothing,Jacket,25,90275.0
+2023-12-03,West,Sports,Cricket Bat,14,9016.0
+2023-07-05,West,Furniture,Table,21,335664.0
+2023-05-17,South,Electronics,Smartphone,10,582240.0
+2023-01-15,South,Grocery,Rice,23,8602.0
+2023-01-08,West,Clothing,Dress,3,6420.0
+2023-03-02,South,Electronics,Smartwatch,16,624864.0
+2023-08-01,West,Sports,Badminton Racket,16,35136.0
+2023-03-16,West,Grocery,Juice,7,8939.0
+2023-02-05,East,Sports,Football,25,89975.0
+2023-05-17,North,Clothing,Dress,10,27450.0
+2023-12-04,West,Sports,Yoga Mat,5,19290.0
+2023-06-26,East,Sports,Tennis Ball,18,83718.0
+2023-06-14,South,Grocery,Cooking Oil,23,12397.0
+2023-04-30,West,Sports,Tennis Ball,2,5612.0
+2023-07-17,South,Grocery,Cooking Oil,16,2000.0
+2023-10-30,East,Furniture,Table,4,116760.0
+2023-09-27,West,Grocery,Rice,1,345.0
+2023-02-08,West,Grocery,Coffee,9,6687.0
+2023-11-29,North,Sports,Tennis Ball,11,50281.0
+2023-11-17,West,Grocery,Biscuits,18,2214.0
+2023-05-01,East,Sports,Cricket Bat,8,7520.0
+2023-11-21,North,Grocery,Rice,15,5850.0
+2023-01-24,East,Clothing,T-Shirt,2,5406.0
+2023-08-09,South,Clothing,Jacket,8,37208.0
+2023-12-16,South,Grocery,Juice,6,2448.0
+2023-07-15, South ,Electronics,Tablet,16,1235760.0
+2023-08-25,East,Furniture,Desk,15,147990.0
+2023-05-28,South,Electronics,Smartwatch,3,176094.0
+2023-06-03,West,Clothing,Dress,23,54004.0
+2023-04-12,West,Grocery,Biscuits,16,4288.0
+2023-10-20,East,Furniture,Sofa,19,212705.0
+2023-12-04,West,Clothing,T-Shirt,9,3294.0
+2023-11-07,West,Sports,Cricket Bat,10,20850.0
+2023-04-23,South,Sports,Badminton Racket,20,45060.0
+2023-11-18,North,Furniture,Office Chair,10,273410.0
+2023-10-24,East,Grocery,Rice,24,7656.0
+2023-06-17,West,Electronics,Headphones,6,162708.0
+2023-07-07,East,Furniture,Table,6,59520.0
+2023-06-23,North,Grocery,Biscuits,15,3060.0
+2023-12-13,West,Furniture,Desk,18,242730.0
+2023-01-08,East,Electronics,Smartwatch,18,305982.0
+2023-12-11,East,Grocery,Biscuits,19,15770.0
+2023-12-12,South,Clothing,T-Shirt,16,8080.0
+2023-06-17,South,Sports,Yoga Mat,21,15057.0
+2023-11-29,West,Grocery,Biscuits,4,1344.0
+2023-06-05,West,Electronics,Laptop,4,54156.0
+2023-03-11,West,Furniture,Table,15,204855.0
+2023-10-28,South,Sports,Tennis Ball,14,14154.0
+2023-07-28,East,Grocery,Juice,2,2926.0
+2023-08-16,West,Clothing,Jeans,8,26168.0
+2023-10-06,East,Electronics,Headphones,2,105968.0
+2023-03-04,West,Clothing,Jeans,3,17187.0
+2023-01-11,North,Furniture,Table,11,104291.0
+2023-04-16,North,Furniture,Table,25,491500.0
+2023-04-21,South,Furniture,Table,11,295614.0
+2023-01-02,East,Furniture,Table,5,28795.0
+2023-03-31,North,Sports,Badminton Racket,22,9042.0
+2023-07-03,South,Furniture,Office Chair,19,230071.0
+2023-05-16,North,Electronics,Smartphone,5,279880.0
+2023-02-02,West,Sports,Cricket Bat,15,47475.0
+2023-02-25,West,Sports,Yoga Mat,17,34238.0
+2023-12-04,East,Sports,Cricket Bat,15,6825.0
+2023-07-25,West,Electronics,Smartwatch,22,328900.0
+2023-02-07,North,Grocery,Cooking Oil,11,14245.0
+2023-03-06,East,Furniture,Office Chair,20,444880.0
+2023-12-31,East,Sports,Yoga Mat,13,59098.0
+2023-09-16,West,Clothing,Shoes,4,4948.0
+2023-08-09,West,Sports,Football,8,28712.0
+2023-07-24,West,Clothing,Shoes,24,25872.0
+2023-06-10,East,Clothing,Shoes,12,18600.0
+2023-02-16,North,Grocery,Rice,3,2802.0
+2023-03-08,North,Electronics,Headphones,19,1413752.0
+2023-12-10,North,Sports,Badminton Racket,14,43344.0
+2023-05-28,East,Grocery,Rice,12,3144.0
+2023-04-19,South,Sports,Yoga Mat,22,91300.0
+2023-06-29,East,Furniture,Office Chair,4,105956.0
+2023-04-26,West,Clothing,Dress,18,97074.0
+2023-01-14,East,Sports,Yoga Mat,1,1677.0
+2023-06-23,East,Clothing,Jacket,1,1786.0
+2023-12-03,West,Furniture,Table,3,18444.0
+2023-09-29,South,Electronics,Laptop,13,725764.0
+2023-03-22,East,Grocery,Biscuits,10,7140.0
+2023-02-13,North,Sports,Yoga Mat,5,7445.0
+2023-12-12,North,Sports,Cricket Bat,9,34461.0
+2023-11-07,West,Grocery,Cooking Oil,14,8526.0
+2023-02-28,East,Furniture,Table,14,71862.0
+2023-09-07,East,Clothing,Dress,2,4212.0
+2023-04-29,West,Furniture,Desk,23,149661.0
+2023-05-11,East,Furniture,Desk,11,59741.0
+2023-08-09,South,Electronics,Smartwatch,5,253170.0
+2023-09-14,East,Sports,Football,3,10356.0
+2023-01-10,West,Electronics,Smartwatch,3,125499.0
+2023-10-21,West,Sports,Tennis Ball,23,83283.0
+2023-07-27,North,Clothing,T-Shirt,11,18777.0
+2023-12-20,East,Sports,Tennis Ball,3,11331.0
+2023-08-12,West,Electronics,Smartphone,17,188836.0
+2023-06-23,South,Grocery,Biscuits,11,4334.0
+2023-11-21,North,Electronics,Tablet,17,1149880.0
+2023-06-29,South,Furniture,Bookshelf,8,38944.0
+2023-04-12,South,Furniture,Bookshelf,20,130180.0
+2023-11-18,West,Electronics,Smartphone,15,1120335.0
+2023-12-15,East,Sports,Tennis Ball,21,58569.0
+2023-02-04,West,Furniture,Sofa,15,332835.0
+2023-10-30,North,Clothing,Jacket,12,53472.0
+2023-08-25,West,Electronics,Headphones,2,
+2023-02-09,North,Clothing,Jacket,20,103320.0
+2023-08-25,North,Sports,Tennis Ball,15,73245.0
+2023-11-06,West,Furniture,Bookshelf,17,109531.0
+2023-02-22,East,Electronics,Smartwatch,23,272619.0
+2023-01-21,South,Sports,Football,23,87078.0
+2023-09-25,South,Grocery,Juice,12,9756.0
+2023-07-29,East,Clothing,Shoes,22,114334.0
+2023-02-03,East,Electronics,Headphones,4,295732.0
+2023-05-10,South,Grocery,Biscuits,11,2376.0
+2023-06-29,East,Sports,Football,21,71610.0
+2023-12-29,North,Furniture,Table,10,198140.0
+2023-03-07,North,Grocery,Biscuits,21,29883.0
+2023-07-05,North,Grocery,Juice,12,8184.0
+2023-06-24,West,Furniture,Desk,7,62461.0
+2023-02-09,East,Furniture,Desk,4,72540.0
+2023-01-20,East,Sports,Yoga Mat,25,31825.0
+2023-03-20,South,Sports,Tennis Ball,6,9336.0
+2023-07-30,East,Grocery,Rice,22,11792.0
+2023-05-26,West,Grocery,Juice,8,9144.0
+2023-08-29,South,Furniture,Bookshelf,12,284712.0
+2023-08-25,East,Sports,Tennis Ball,25,83200.0
+2023-08-03,South,Sports,Yoga Mat,7,9331.0
+2023-11-25,West,Clothing,T-Shirt,12,58104.0
+2023-03-05,East,Electronics,Tablet,3,65436.0
+2023-09-20,South,Clothing,Shoes,14,14714.0
+2023-06-28,North,Furniture,Sofa,14,45430.0
+2023-07-11,South,Grocery,Juice,13,2821.0
+2023-01-15,East,Clothing,Jeans,4,22496.0
+2023-03-12,North,Clothing,Jeans,10,41700.0
+2023-08-18,North,Furniture,Sofa,3,6366.0
+2023-03-18,West,Clothing,Jeans,4,10640.0
+2023-03-04,North,Furniture,Bookshelf,8,122048.0
+2023-02-02,North,Sports,Tennis Ball,16,73456.0
+2023-10-22,South,Electronics,Tablet,23,451214.0
+2023-01-01,East,Clothing,Shoes,8,39792.0
+2023-12-07,North,Grocery,Coffee,17,13396.0
+2023-10-06,North,Electronics,Tablet,13,811473.0
+2023-07-11,East,Electronics,Smartwatch,24,70272.0
+2023-06-26,South,Clothing,T-Shirt,24,136368.0
+2023-06-20,South,Electronics,Tablet,2,93952.0
+2023-11-26,South,Sports,Badminton Racket,25,100150.0
+2023-03-11,North,Grocery,Coffee,23,22701.0
+2023-04-14,North,Electronics,Headphones,7,44044.0
+2023-09-21,West,Clothing,Jacket,18,75204.0
+2023-11-28,South,Clothing,T-Shirt,10,32240.0
+2023-05-20,North,Electronics,Headphones,12,696864.0
+2023-07-17,East,Grocery,Cooking Oil,6,6396.0
+2023-09-23,East,Grocery,Biscuits,3,2757.0
+2023-11-05,South,Electronics,Smartwatch,18,707472.0
+2023-02-10,East,Clothing,T-Shirt,22,59862.0
+2023-11-05,West,Clothing,Shoes,6,35700.0
+2023-08-17,North,Grocery,Biscuits,24,0.0
+2023-05-21,North,Sports,Tennis Ball,3,10581.0
+2023-12-14,South,Clothing,Dress,1,1469.0
+2023-01-18,South,Sports,Tennis Ball,3,6399.0
+2023-07-16,North,Clothing,Jacket,20,31120.0
+2023-07-10,West,Grocery,Biscuits,25,5175.0
+2023-09-29,East,Sports,Football,13,36075.0
+2023-02-28,North,Clothing,Jeans,24,43776.0
+2023-07-18,North,Grocery,Juice,9,5247.0
+2023-11-10,East,Grocery,Coffee,23,24265.0
+2023-03-11,North,Furniture,Office Chair,15,107355.0
+2023-12-16,East,Grocery,Rice,22,16742.0
+2023-10-05,East,Electronics,Tablet,10,214440.0
+2023-09-18,South,Furniture,Bookshelf,4,32340.0
+2023-09-10,North,Furniture,Desk,12,235848.0
+2023-08-28,South,Sports,Badminton Racket,20,18120.0
+2023-07-23,West,Electronics,Headphones,17,928931.0
+2023-02-07,South,Grocery,Juice,11,15015.0
+2023-08-27,East,Electronics,Smartwatch,5,365300.0
+2023-03-08,West,Sports,Football,17,11101.0
+2023-03-20,East,Electronics,Tablet,6,132174.0
+2023-06-27,East,Clothing,Jeans,3,7056.0
+2023-05-21,South,Furniture,Table,21,239862.0
+2023-02-17,South,Sports,Yoga Mat,19,94164.0
+2023-12-04,East,Furniture,Desk,19,54131.0
+2023-01-24,East,Electronics,Laptop,21,597051.0
+2023-11-13,North,Sports,Tennis Ball,16,74704.0
+2023-09-05,South,Clothing,Jacket,22,79772.0
+2023-02-07,North,Clothing,Shoes,6,23406.0
+2023-08-26,South,Grocery,Cooking Oil,11,14212.0
+2023-06-13,East,Furniture,Bookshelf,13,75192.0
+2023-10-15,North,Clothing,Dress,11,25080.0
+2023-05-17,West,Grocery,Rice,8,2704.0
+2023-05-29,West,Electronics,Laptop,20,1112100.0
+2023-06-17,East,Furniture,Desk,7,185535.0
+2023-09-21,West,Furniture,Sofa,16,185760.0
+2023-02-16,West,Grocery,Rice,17,16762.0
+2023-10-26,East,Furniture,Desk,2,6312.0
+2023-11-02,West,Clothing,Shoes,10,46960.0
+2023-08-09,South,Electronics,Laptop,9,438687.0
+2023-01-24,West,Grocery,Biscuits,2,2434.0
+2023-07-05,East,Sports,Football,3,10092.0
+2023-10-09,East,Sports,Tennis Ball,20,23460.0
+2023-07-21,East,Furniture,Office Chair,11,217569.0
+2023-04-12,West,Clothing,Jeans,17,10693.0
+2023-03-12,East,Electronics,Laptop,16,1101904.0
+2023-11-07,South,Grocery,Coffee,11,14355.0
+2023-07-21,East,Clothing,Jeans,19,58045.0
+2023-09-30,West,Sports,Yoga Mat,23,110653.0
+2023-01-09,East,Clothing,Shoes,11,64009.0
+2023-10-26,East,Electronics,Smartwatch,24,103008.0
+2023-05-16,South,Sports,Tennis Ball,24,14880.0
+2023-03-29,West,Sports,Tennis Ball,5,10920.0
+2023-12-25,North,Electronics,Tablet,7,22974.0
+2023-08-03,South,Grocery,Biscuits,14,20496.0
+2023-09-14,West,Furniture,Sofa,24,608040.0
+2023-09-23,South,Electronics,Smartphone,18,781272.0
+2023-07-12,East,Grocery,Juice,6,5946.0
+2023-10-07,East,Sports,Badminton Racket,22,52030.0
+2023-04-09,South,Sports,Tennis Ball,9,42939.0
+2023-06-02,East,Clothing,Jeans,23,45954.0
+2023-09-03,East,Grocery,Biscuits,18,10980.0
+2023-10-21,West,Clothing,T-Shirt,13,40651.0
+2023-01-22,East,Furniture,Bookshelf,23,94047.0
+2023-12-02,East,Clothing,Shoes,24,101376.0
+2023-10-03,East,Furniture,Desk,18,437616.0
+2023-02-25,South,Clothing,Jeans,8,5720.0
+2023-11-23,South,Sports,Football,2,2040.0
+2023-08-30,North,Grocery,Biscuits,22,7282.0
+2023-03-22,West,Electronics,Tablet,21,1326150.0
+2023-05-28,East,Grocery,Coffee,10,13720.0
+2023-11-30,South,Electronics,Laptop,18,102384.0
+2023-04-01,North,Furniture,Sofa,13,355147.0
+2023-05-29,North,Grocery,Coffee,1,661.0
+2023-02-24,East,Sports,Yoga Mat,10,39220.0
+2023-09-10,South,Sports,Yoga Mat,17,68578.0
+2023-02-27,East,Clothing,Jeans,6,24354.0
+2023-01-08,East,Clothing,Jeans,10,49510.0
+2023-11-09,West,Furniture,Desk,14,257376.0
+2023-07-25,North,Clothing,T-Shirt,6,8706.0
+2023-05-08,North,Grocery,Biscuits,9,7515.0
+2023-05-17,East,Furniture,Sofa,10,205860.0
+2023-05-14,East,Sports,Cricket Bat,23,49105.0
+2023-08-27,East,Electronics,Laptop,6,323628.0
+2023-12-20,North,Sports,Badminton Racket,21,54936.0
+2023-04-24,South,Clothing,Dress,5,21085.0
+2023-11-07,East,Furniture,Sofa,14,343014.0
+2023-10-03,South,Sports,Tennis Ball,25,55675.0
+2023-09-27,West,Sports,Cricket Bat,17,53771.0
+2023-02-27,North,Electronics,Tablet,18,1206990.0
+2023-10-02,South,Furniture,Table,6,73506.0
+2023-03-01,South,Sports,Tennis Ball,23,114471.0
+2023-09-19,West,Grocery,Rice,2,1956.0
+2023-08-01,West,Furniture,Table,19,64429.0
+2023-12-11,East,Sports,Tennis Ball,24,9072.0
+2023-01-02,South,Grocery,Biscuits,19,3781.0
+2023-06-26,North,Electronics,Smartwatch,18,156546.0
+2023-01-17,East,Electronics,Smartwatch,14,341460.0
+2023-07-11,West,Furniture,Sofa,15,449925.0
+2023-02-11,South,Grocery,Cooking Oil,21,16002.0
+2023-10-03,West,Electronics,Smartphone,17,297347.0
+2023-01-12,East,Furniture,Office Chair,15,353535.0
+2023-09-30,West,Sports,Tennis Ball,8,17816.0
+2023-03-21,East,Grocery,Biscuits,7,1967.0
+2023-11-11,North,Electronics,Smartwatch,8,222488.0
+2023-11-01,North,Electronics,Laptop,15,1187280.0
+2023-01-23,West,Electronics,Smartphone,15,472725.0
+2023-01-29,South,Sports,Football,17,43673.0
+2023-06-13,East,Furniture,Table,8,91104.0
+2023-04-24,West,Furniture,Table,10,105160.0
+2023-10-30,South,Electronics,Tablet,21,1192674.0
+2023-01-25,East,Sports,Tennis Ball,21,69762.0
+2023-12-23,West,Sports,Badminton Racket,14,19908.0
+2023-04-05,West,Clothing,Shoes,8,17168.0
+2023-08-26,North,Clothing,Jeans,18,66240.0
+2023-09-29,South,Grocery,Juice,13,7111.0
+2023-06-19,North,Clothing,Jeans,15,50085.0
+2023-04-08,North,Electronics,Tablet,9,452124.0
+2023-01-21,North,Sports,Yoga Mat,7,33446.0
+2023-04-17,East,Furniture,Sofa,10,20020.0
+2023-03-02,West,Furniture,Desk,8,194352.0
+2023-07-23,South,Sports,Football,18,51012.0
+2023-08-27,East,Clothing,Shoes,10,24420.0
+2023-09-12,West,Clothing,Dress,4,16584.0
+2023-07-09,East,Clothing,Jeans,14,9436.0
+2023-03-16,North,Sports,Football,9,42588.0
+2023-08-02,East,Sports,Yoga Mat,5,9035.0
+2023-07-14,South,Clothing,Jeans,16,76960.0
+2023-09-08,West,Clothing,Jacket,15,25170.0
+2023-03-13,West,Clothing,Jeans,6,28446.0
+2023-01-18,North,Electronics,Tablet,22,157476.0
+2023-03-12,South,Electronics,Smartwatch,3,61785.0
+2023-09-16,West,Electronics,Smartphone,12,104676.0
+2023-09-05,West,Sports,Yoga Mat,1,254.0
+2023-07-30,North,Sports,Yoga Mat,1,4536.0
+2023-05-27,North,Clothing,Dress,17,98957.0
+2023-02-24,North,Grocery,Coffee,17,6018.0
+2023-11-14,East,Furniture,Desk,12,123108.0
+2023-07-11,West,Grocery,Rice,15,18105.0
+2023-06-03,North,Furniture,Desk,21,622062.0
+2023-07-27,West,Electronics,Laptop,13,952159.0
+2023-11-23,North,Grocery,Rice,23,9200.0
+2023-08-11,East,Electronics,Smartwatch,19,252681.0
+2023-04-28,South,Sports,Cricket Bat,23,111389.0
+2023-01-24,North,Grocery,Biscuits,22,13728.0
+2023-12-03,North,Sports,Yoga Mat,6,16656.0
+2023-10-28,South,Electronics,Smartphone,25,1325125.0
+2023-03-25,South,Electronics,Headphones,19,984333.0
+2023-07-16,South,Sports,Badminton Racket,23,19366.0
+2023-01-28,North,Sports,Badminton Racket,14,29414.0
+2023-11-06,West,Electronics,Headphones,25,1089450.0
+2023-08-19,West,Electronics,Headphones,8,379488.0
+2023-08-10,South,Sports,Tennis Ball,22,109978.0
+2023-11-13,East,Grocery,Rice,8,1600.0
+2023-03-20,West,Electronics,Headphones,23,483483.0
+2023-07-04,North,Grocery,Biscuits,3,180.0
+2023-07-04,East,Clothing,Shoes,4,5540.0
+2023-08-09,West,Electronics,Smartphone,18,1323180.0
+2023-02-22,North,Sports,Tennis Ball,3,9297.0
+2023-11-02,East,Sports,Cricket Bat,13,3913.0
+2023-07-18,North,Clothing,Shoes,24,117192.0
+2023-09-24,South,Furniture,Table,22,307450.0
+2023-05-18,East,Furniture,Desk,9,158922.0
+2023-03-27,West,Furniture,Office Chair,9,137682.0
+2023-02-09,East,Clothing,Shoes,9,20880.0
+2023-11-12,South,Grocery,Juice,15,4035.0
+2023-01-04,West,Furniture,Bookshelf,11,319847.0
+2023-06-18,West,Sports,Tennis Ball,11,40997.0
+2023-06-03,East,Sports,Football,20,36900.0
+2023-04-01,West,Grocery,Biscuits,11,7106.0
+2023-05-05,East,Grocery,Juice,13,8112.0
+2023-02-28,South,Grocery,Biscuits,19,22173.0
+2023-01-14,West,Furniture,Table,23,192487.0
+2023-12-21,North,Grocery,Biscuits,14,19992.0
+2023-11-21,East,Grocery,Coffee,8,4536.0
+2023-07-13,North,Furniture,Sofa,15,316395.0
+2023-07-25,West,Grocery,Juice,18,2250.0
+2023-11-01,North,Clothing,Dress,4,9332.0
+2023-11-28,North,Clothing,Jeans,19,106096.0
+2023-08-09,North,Grocery,Biscuits,1,251.0
+2023-09-19,South,Clothing,Jeans,15,50460.0
